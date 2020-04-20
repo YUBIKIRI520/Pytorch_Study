@@ -17,3 +17,4 @@ plt.scatter(x.data.numpy(), y.data.numpy())
 plt.show()
 
 # 用于github测试
+# git add -A
