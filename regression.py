@@ -56,3 +56,5 @@ for t in range(100):
 
 plt.ioff()
 plt.show()
+
+# 用于github测试
